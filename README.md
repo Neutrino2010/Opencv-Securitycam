@@ -5,8 +5,14 @@ Hey , This is a basic security cam. When running this python project.It simply t
 This project was created using these tools ⬇️ 
 
 -Pycharm(The IDE USED)
+
+
 -Opencv(The library used)
+
+
 -Python(The language used)
+
+
 -My laptop(Macbook air 2017 i5)
 
 
